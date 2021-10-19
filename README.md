@@ -10,4 +10,4 @@ change the weight and height value to calculate you BMI.
 
 
 ## Calculation
-We will simply divide weight in kilograms by the square of the height. Learn More here https://www.geeksforgeeks.org/design-a-bmi-calculator-using-javascript/. 
+We will simply divide weight in kilograms by the square of the height. Learn More at https://www.geeksforgeeks.org/design-a-bmi-calculator-using-javascript/. 
